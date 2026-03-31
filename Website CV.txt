@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rommy Yudha Aditya | Transport Coordinator</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #0f172a, #020617);
+  color: white;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.hero {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.hero h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  color: #38bdf8;
+  font-size: 18px;
+}
+
+.highlight {
+  background: #38bdf8;
+  color: black;
+  padding: 5px 10px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.card {
+  background: rgba(30,41,59,0.8);
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  border-radius: 14px;
+  margin-bottom: 20px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+h2 {
+  color: #38bdf8;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 18px;
+  background: #38bdf8;
+  color: black;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <div class="hero">
+    <h1>Rommy Yudha Aditya</h1>
+    <p>Transport Coordinator | Fleet & Operations Specialist</p>
+    <p><span class="highlight">9+ Tahun Leadership Experience</span></p>
+    <a href="https://wa.me/6285349110001" class="btn">📞 Hire Me Now</a>
+  </div>
+
+  <div class="card">
+    <h2>👤 Tentang Saya</h2>
+    <p>
+      Koordinator Transport berpengalaman dengan latar belakang IT dan operasional tambang.
+      Terbukti mampu memimpin tim, mengelola armada, dan meningkatkan efisiensi operasional
+      dalam lingkungan kerja yang dinamis dan bertekanan tinggi.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>🔥 Kenapa Saya Berbeda?</h2>
+    <ul>
+      <li>✔ Pengalaman lintas bidang: teknisi, admin, hingga leader</li>
+      <li>✔ Leadership kuat (memimpin tim hingga 9 tahun)</li>
+      <li>✔ Kombinasi skill IT & operasional lapangan</li>
+      <li>✔ Terbiasa kerja di lingkungan tambang</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>🏆 Pencapaian Utama</h2>
+    <ul>
+      <li>Memimpin tim operasional selama 9 tahun sebagai Team Leader</li>
+      <li>Mengelola operasional transport dan koordinasi armada</li>
+      <li>Meningkatkan efisiensi kerja melalui perencanaan dan pengawasan</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>💼 Pengalaman Inti</h2>
+    <ul>
+      <li><strong>Koordinator Transport</strong> – Koperasi Pamandiri (2024 - 2026)</li>
+      <li><strong>Team Leader</strong> – PT Advantage SCM (2013 - 2022)</li>
+      <li><strong>Admin Planner</strong> – PT Cahaya Sakti Jaya (2023)</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>⚙️ Keahlian</h2>
+    <ul>
+      <li>Manajemen Armada</li>
+      <li>Scheduling & Planning</li>
+      <li>Leadership & Team Coordination</li>
+      <li>Problem Solving Operasional</li>
+    </ul>
+  </div>
+
+  <div class="card center">
+    <h2>📞 Siap Bekerja</h2>
+    <p>Saya siap bergabung dan memberikan kontribusi terbaik untuk perusahaan Anda.</p>
+    <a href="mailto:rommyyudha@gmail.com" class="btn">📧 Email Saya</a>
+  </div>
+
+</div>
+
+</body>
+</html>
